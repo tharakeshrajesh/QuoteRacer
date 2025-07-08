@@ -1,0 +1,2 @@
+# QuoteRacer
+A discord bot
